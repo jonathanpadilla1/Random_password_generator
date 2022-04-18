@@ -2,5 +2,5 @@
 
 Random password generator written in Python<br/>
 
-[!My Image](img-1.png)
+![My Image](img-1.png)
 
